@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db4858f2-4e73-456a-836a-f2d2f2521ba3" name="Default Changelist" comment="" />
+    <list default="true" id="db4858f2-4e73-456a-836a-f2d2f2521ba3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/NumbersTest.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="221" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestGroup" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,6 +30,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -25,6 +43,7 @@
   </component>
   <component name="ProjectId" id="1SBfRhBqyopAVARL9DGfcJ3fIWv" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -35,6 +54,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -56,10 +80,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NumbersTest">
-    <configuration name="JavaCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.JavaCalcTest.bigEvklid">
+    <configuration name="JavaCalc" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaCalc" />
       <module name="JavaPR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in JavaPR" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JavaPR" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaCalcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPR" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JavaCalcTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaCalcTest.bigEvklid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPR" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JavaCalcTest" />
+      <option name="METHOD_NAME" value="bigEvklid" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,10 +127,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumbersTest.sum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPR" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumbersTest" />
+      <option name="METHOD_NAME" value="sum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JavaCalcTest.bigEvklid" />
+        <item itemvalue="JUnit.JavaCalcTest" />
+        <item itemvalue="JUnit.NumbersTest.sum" />
         <item itemvalue="JUnit.NumbersTest" />
-        <item itemvalue="Application.JavaCalc" />
       </list>
     </recent_temporary>
   </component>
@@ -93,10 +159,34 @@
       <workItem from="1571041905723" duration="222000" />
       <workItem from="1571050137874" duration="1958000" />
       <workItem from="1571056235956" duration="1326000" />
+      <workItem from="1571058746682" duration="1882000" />
+      <workItem from="1571124985757" duration="401000" />
+      <workItem from="1571735902210" duration="4628000" />
+      <workItem from="1571826256387" duration="56000" />
+      <workItem from="1572858641135" duration="2804000" />
+      <workItem from="1572879697881" duration="646000" />
+      <workItem from="1572884630523" duration="236000" />
+      <workItem from="1572943854578" duration="6879000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestGroup$JavaCalcTest.ic" NAME="JavaCalcTest Coverage Results" MODIFIED="1572949729539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
