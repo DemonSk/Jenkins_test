@@ -17,15 +17,12 @@ public class JavaCalcTest {
         System.out.println("firstF test");
         assertEquals(1,calc.firstF(2,2,3),0.0);
     }
-    
-    @Ignore
+
+
     @Test(timeout=400)
     public void bigEvklid() {
-        while (true){
-            System.out.println("kekw");
-        }
-        //System.out.println("bigEvklid test");
-       // assertEquals(12, calc.BigEvklid(36,60)[0]);
+        System.out.println("bigEvklid test");
+        assertEquals(12, calc.BigEvklid(36,60)[0]);
     }
 
     @Test

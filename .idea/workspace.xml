@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db4858f2-4e73-456a-836a-f2d2f2521ba3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NumbersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaCalc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/NumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JavaCalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaCalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaCalcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JavaCalcTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +161,8 @@
       <workItem from="1572858641135" duration="2804000" />
       <workItem from="1572879697881" duration="646000" />
       <workItem from="1572884630523" duration="236000" />
-      <workItem from="1572943854578" duration="6879000" />
+      <workItem from="1572943854578" duration="7861000" />
+      <workItem from="1574159063342" duration="50000" />
     </task>
     <servers />
   </component>
