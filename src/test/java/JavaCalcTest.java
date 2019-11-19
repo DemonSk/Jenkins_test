@@ -18,8 +18,7 @@ public class JavaCalcTest {
         assertEquals(1,calc.firstF(2,2,3),0.0);
     }
 
-
-    @Test(timeout=400)
+    @Test
     public void bigEvklid() {
         System.out.println("bigEvklid test");
         assertEquals(12, calc.BigEvklid(36,60)[0]);
